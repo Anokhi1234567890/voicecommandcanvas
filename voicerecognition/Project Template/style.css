@@ -1,0 +1,20 @@
+body
+{
+	text-align: center;
+	background-color: rgb(100, 76, 108);
+	color: aliceblue;
+}
+span
+{
+	font-size: 12px;
+	color: red;
+}
+canvas
+{
+	background: rgb(184,129,166);
+	border-radius: 20px;
+}
+
+h3{
+	color:azure ;
+}
